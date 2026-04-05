@@ -3,6 +3,13 @@
 //Dalam PHP (OOP), parent adalah keyword yang digunakan untuk mengakses property atau method dari class induk (parent class).
 //parent = kelas induk
 
+// Keyword	Fungsi
+// $this->	Akses milik object sendiri
+// self::	Akses static dalam class sendiri
+// parent::	Akses milik class induk
+
+
+
 class Programer {
 
 public static function makeSystem() 
